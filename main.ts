@@ -265,7 +265,7 @@ Hero,
     . . . . . . . . . f f f . . . . 
     `],
 500,
-false
+true
 )
 pause(5000)
 controller.moveSprite(Hero)
